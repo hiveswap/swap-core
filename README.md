@@ -15,3 +15,7 @@ The following assumes the use of `node@>=10`.
 
 ## deploy Contracts
 `truffle migrate --network=map_main`
+
+## Address
+
+MAP Mainnet factory:  0x29c3d087302e3fCb75F16175A09E4C39119459B2
